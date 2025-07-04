@@ -95,7 +95,7 @@ A screenshot of the dashboard is included below
 
 ## How to Use
 Instructions for users:
-1. Download [Amazon Review.xlsx](https://github.com/ayodelezeke/-Amazon-Product-Review-Analysis/blob/main/Amazon%20Review.xlsx) from this repo
+1. Download [Amazon Review.xlsx](https://github.com/ayodelezeke/-Amazon-Product-Review-Analysis/raw/refs/heads/main/Amazon%20Review.xlsx) from this repo
 3. Open in Excel (desktop recommended)
 4. Enable macros or content if prompted
 5. Use slicers to explore the data
