@@ -95,7 +95,7 @@ A screenshot of the dashboard is included below
 
 ## How to Use
 Instructions for users:
-1. Download the Excel file from this repo
+1. Download Amazon Review.xlsx from this repo
 2. Open in Excel (desktop recommended)
 3. Enable macros or content if prompted
 4. Use slicers to explore the data
