@@ -1,4 +1,4 @@
-# -Amazon-Product-Review-Analysis(DSA Capstone Project)
+# -Amazon-Product-Review-Analysis
 
 ## Table of Contents
 - [Overview](https://github.com/ayodelezeke/-Amazon-Product-Review-Analysis/blob/main/README.md#overview)
