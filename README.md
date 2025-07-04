@@ -1,18 +1,18 @@
 # -Amazon-Product-Review-Analysis
 
 ## Table of Contents
-- Overview
-- Dataset
-- Tool Used
-- EDA Process
-  - Data Collection
-  - Data Cleaning and Preparation
-  - Data Exploration and Analysis
-  - Data Visualization
- - Dashboard
- - How to Use
- - Key Insights
- - Limitations
+- [Overview](https://github.com/ayodelezeke/-Amazon-Product-Review-Analysis/blob/main/README.md#overview)
+- [Dataset](https://github.com/ayodelezeke/-Amazon-Product-Review-Analysis/blob/main/README.md#dataset)
+- [Tool Used](https://github.com/ayodelezeke/-Amazon-Product-Review-Analysis/blob/main/README.md#tool-used)
+- [EDA Process](https://github.com/ayodelezeke/-Amazon-Product-Review-Analysis/blob/main/README.md#eda-process)
+  - [Data Collection](https://github.com/ayodelezeke/-Amazon-Product-Review-Analysis/blob/main/README.md#data-collection)
+  - [Data Cleaning and Preparation](https://github.com/ayodelezeke/-Amazon-Product-Review-Analysis/blob/main/README.md#data-cleaning-and-preparation)
+  - [Data Exploration and Analysis](https://github.com/ayodelezeke/-Amazon-Product-Review-Analysis/blob/main/README.md#data-exploration-and-analysis)
+  - [Data Visualization](https://github.com/ayodelezeke/-Amazon-Product-Review-Analysis/blob/main/README.md#data-visualization)
+ - [Dashboard](https://github.com/ayodelezeke/-Amazon-Product-Review-Analysis/blob/main/README.md#dashboard)
+ - [How to Use](https://github.com/ayodelezeke/-Amazon-Product-Review-Analysis/blob/main/README.md#how-to-use)
+ - [Key Insights](https://github.com/ayodelezeke/-Amazon-Product-Review-Analysis/blob/main/README.md#key-insights)
+ - [Limitations](https://github.com/ayodelezeke/-Amazon-Product-Review-Analysis/blob/main/README.md#limitations)
 
  
 ## Overview
@@ -44,7 +44,7 @@ The Exploratory Data Analysis process involves working with the data to generate
 The data contained within the dataset was scraped from Amazon pages
 
 ### Data Cleaning and Preparation
-In the phase of the Data cleaning and preparation, we perform the following actions through the Power Query Editor:
+In the phase of the Data cleaning and preparation, the following actions were performed through the Power Query Editor:
   1. Data loading and inspection
   2. Removal of duplicates
   3. Handling missing variables
