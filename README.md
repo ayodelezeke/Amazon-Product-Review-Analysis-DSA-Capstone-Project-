@@ -1,4 +1,19 @@
 # -Amazon-Product-Review-Analysis
+
+## Table of Contents
+- Overview
+- Dataset
+- Tool Used
+- EDA Process
+  - Data Collection
+  - Data Cleaning and Preparation
+  - Data Exploration and Analysis
+  - Data Visualization
+ - Dashboard
+ - How to Use
+ - Key Insights
+ - Limitations
+
  
 ## Overview
 An Exploratory Data Analysis into product and customer review data from Amazon to generate insights that can guide product improvement, marketing strategies, and customer engagement.
@@ -64,7 +79,32 @@ Some questions however were answered through the use of excel formulas. For exam
 ``` EXCEL
 =COUNTIF(Table1_1[discount_percentage above 50%], "Yes")
 ```
+
 ### Data Visualization
+The charts used in visualizing data insights were column and bar charts. A scatter chart was also used to show the relationship between the discount level and ratings.
 
+## Dashboard
+The features of the dashboard include:
+- A complete visualization of all the insights gotten from the data in orange and black to mirror the colours of Amazon
+- A slicer of product category to allow easy filtering of visuals involving the product category
+- Key metrics such as the total number of products, number of product categories and the average rating of all products
 
+A screenshot of the dashboard is included below
+
+![Amazon Dashboard](https://github.com/user-attachments/assets/c41f32eb-2c32-4aed-9b8d-a60f7fb61673)
+
+## How to Use
+Instructions for users:
+1. Download the Excel file from this repo
+2. Open in Excel (desktop recommended)
+3. Enable macros or content if prompted
+4. Use slicers to explore the data
+
+## Key Insights
+1. The Electronics product category had the most number of products reviewed and in turn generated the highest potential revenue.
+2. Looking at the relationship between discount level and rating, there is no correlation between a higher discount and rating. Product rating does not increase with discount level.
+3. Looking at the correlation between number of products and price bucket range, there is an increase in the amount of products reviewed/bought with an increase in price (discounted)
+
+## Limitations
+Upon exploration of the data, it can be noticed that some distinct products share the same review id. This can affect the accuracy of conclusions made because it has a potential effect on the number of products actually reviewed.
     
