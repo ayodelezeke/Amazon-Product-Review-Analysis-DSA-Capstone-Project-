@@ -96,9 +96,9 @@ A screenshot of the dashboard is included below
 ## How to Use
 Instructions for users:
 1. Download [Amazon Review.xlsx](https://github.com/ayodelezeke/-Amazon-Product-Review-Analysis/blob/main/Amazon%20Review.xlsx) from this repo
-2. Open in Excel (desktop recommended)
-3. Enable macros or content if prompted
-4. Use slicers to explore the data
+3. Open in Excel (desktop recommended)
+4. Enable macros or content if prompted
+5. Use slicers to explore the data
 
 ## Key Insights
 1. The Electronics product category had the most number of products reviewed and in turn generated the highest potential revenue.
