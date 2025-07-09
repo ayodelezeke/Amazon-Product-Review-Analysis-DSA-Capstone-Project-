@@ -108,3 +108,10 @@ Instructions for users:
 ## Limitations
 Upon exploration of the data, it can be noticed that some distinct products share the same review id. This can affect the accuracy of conclusions made because it has a potential effect on the number of products actually reviewed.
     
+## Reach me at:
+
+[LinkedIn](www.linkedin.com/in/oluwaseun-ayodele-a65961237)
+
+[Email](mailto:holuwashehun27@gmail.com)
+
++2348167191101
